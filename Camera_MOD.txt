@@ -1,0 +1,17 @@
+URL:
+https://www.nexusmods.com/wutheringwaves/mods/22?tab=description
+
+
+Mod with Far in name:
+  - Camera no longer slowly zooms in closer during combat, it'll stay at a same distance throughout the fight.
+  - When loading into the game, camera is at max distance by default now (don't have to manually zoom out anymore)
+
+
+Additional options in the mod:
+Alt + 8  - Default FoV
+Alt + 9  - FoV -10
+Alt + 0  - FoV +10
+Alt + ,  - Show/Hide UI
+Alt + .  - Take Screenshot (x2 Native Resolution)
+Alt + /  - Show/Hide UID
+Alt + [ or Alt + ]  - Cycle Weather Options

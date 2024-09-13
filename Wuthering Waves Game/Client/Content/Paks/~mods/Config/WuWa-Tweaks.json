@@ -1,0 +1,12 @@
+{
+    "borderless": true,
+    "useCustomResolution": false,
+    "resolutionWidth": 2560,
+    "resolutionHeight": 1440,
+    "fpsCap": [
+        30,
+        60,
+        120,
+        1000
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "fov": 95,
+    "ssMultiplier": 2,
+    "uidShow": false,
+    "modifierKey": "RightCtrl",
+    "fovReset": "Eight",
+    "fovDecrease": "Nine",
+    "fovIncrease": "Zero",
+    "uiToggle": "Comma",
+    "uidToggle": "Period",
+    "screenshot": "Underscore",
+    "weatherPrev": "Minus",
+    "weatherNext": "Plus"
+}
